@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "searth", "searth.vcproj", "{A2E523F8-8118-4FFB-808D-358633B57683}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A2E523F8-8118-4FFB-808D-358633B57683}.Debug.ActiveCfg = Debug|Win32
+		{A2E523F8-8118-4FFB-808D-358633B57683}.Debug.Build.0 = Debug|Win32
+		{A2E523F8-8118-4FFB-808D-358633B57683}.Release.ActiveCfg = Release|Win32
+		{A2E523F8-8118-4FFB-808D-358633B57683}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
